@@ -10,22 +10,6 @@ I build full-stack applications with a focus on real-time systems, backend archi
 - 🌐 Fluent in English and Russian
 - 🤝 Open to collaboration and new opportunities
 
----
-
-## 🚀 About Me
-
-I enjoy turning ideas into practical solutions and exploring different areas of technology. My focus is on writing clean, maintainable code while constantly expanding my technical knowledge.
-
-I value:
-
-- Clean and scalable development
-- Continuous learning
-- Teamwork and communication
-- Solving challenging problems
-- Building projects that create real value
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -40,7 +24,6 @@ I value:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
----
 
 ## 🚀 Featured Projects
 
@@ -51,16 +34,12 @@ Real-time chat application built with a full-stack MERN architecture. Focused on
 
 **Live Demo:** [click!](https://chatlili.onrender.com/)
 
----
-
 ### 🔹 React Battle Ship     [*repository*](https://github.com/DenDOme/react-battle-ship)
 Interactive browser-based Battleship game built in React. Designed to improve frontend architecture, state management, and game logic implementation in a real UI-driven environment.
 
 **Tech Stack:** React, JavaScript, CSS 
 
 **Live Demo:** [click!](https://dendome.github.io/react-battle-ship)
-
----
 
 ### 🔹 JS RayCast Engine     [*repository*](https://github.com/DenDOme/js-rayCastEngine)
 Custom raycasting engine built from scratch using JavaScript and Canvas API. Focused on rendering logic, math behind graphics, and understanding how basic game engines simulate 3D environments.
@@ -69,30 +48,11 @@ Custom raycasting engine built from scratch using JavaScript and Canvas API. Foc
 
 **Live Demo:** [click!](https://dendome.github.io/js-rayCastEngine)
 
----
-
-## 🎯 What Drives Me
-
-- Building projects that solve real problems and teach me something new
-    
-- Continuously improving my backend and system design skills
-    
-- Exploring how scalable applications work behind the scenes
-    
-- Becoming the kind of engineer who can turn an idea into a complete product
-    
-- Challenging myself outside of my comfort zone, both in technology and in life
-    
-- Learning something valuable from every project, success, and mistake
-
----
-
 ## 📫 Contact
 
 - 📧 Email: newlifeofkirim@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/kerim-web  
 - 💻 GitHub: https://github.com/DenDOme  
-
 
 ---
 
