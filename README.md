@@ -47,7 +47,7 @@ I value:
 ### 🔹 RTChatApp_MERN     [*repository*](https://github.com/DenDOme/RTChatApp_MERN)
 Real-time chat application built with a full-stack MERN architecture. Focused on WebSocket-based communication, authentication flow, and scalable backend structure for live messaging systems.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Socket.io, JavaScript
+**Tech Stack:** React, Node.js, Express, MongoDB, Socket.io, JavaScript 
 **Live Demo:** [click!](https://chatlili.onrender.com/)
 
 ---
@@ -55,7 +55,7 @@ Real-time chat application built with a full-stack MERN architecture. Focused on
 ### 🔹 React Battle Ship     [*repository*](https://github.com/DenDOme/react-battle-ship)
 Interactive browser-based Battleship game built in React. Designed to improve frontend architecture, state management, and game logic implementation in a real UI-driven environment.
 
-**Tech Stack:** React, JavaScript, CSS
+**Tech Stack:** React, JavaScript, CSS 
 **Live Demo:** [click!](https://dendome.github.io/react-battle-ship)
 
 ---
@@ -63,7 +63,7 @@ Interactive browser-based Battleship game built in React. Designed to improve fr
 ### 🔹 JS RayCast Engine     [*repository*](https://github.com/DenDOme/js-rayCastEngine)
 Custom raycasting engine built from scratch using JavaScript and Canvas API. Focused on rendering logic, math behind graphics, and understanding how basic game engines simulate 3D environments.
 
-**Tech Stack:** JavaScript, HTML5 Canvas, Rendering Algorithms
+**Tech Stack:** JavaScript, HTML5 Canvas, Rendering Algorithms 
 **Live Demo:** [click!](https://dendome.github.io/js-rayCastEngine)
 
 ---
